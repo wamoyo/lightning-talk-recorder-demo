@@ -1,0 +1,17 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+video {
+  border: 2px solid grey;
+  border-radius: .2em;
+  margin: 1em;
+  width: 45%;
+}
+
